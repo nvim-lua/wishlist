@@ -13,8 +13,8 @@ Summarize the plugin you'd like to see exist. In a few sentences, what's your id
 **Why?**
 What should this plugin provide? What problems does it solve?
 
-**Potential existing implementations**
+**Potential existing implementations:**
 Are there any existing plugins (Lua, Vimscript, or remote) that come close to your idea?
 
-**Potential pitfalls**
+**Potential pitfalls*:*
 Are there any challenges you're aware of to making the plugin you're proposing?
