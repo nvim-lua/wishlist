@@ -8,8 +8,8 @@ If you also want one of the plugins listed here to exist, please consider starti
 
 ## Table of Contents
 1. [Ideas](#ideas)
-1.1 [Git library](#git-library)
-1.2 [Enhanced standard library](#enhanced-standard-library)
+    1. [Git library](#git-library)
+    2. [Enhanced standard library](#enhanced-standard-library)
 2. [Granted Wishes](#granted-wishes)
 
 ## Ideas
