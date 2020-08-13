@@ -4,6 +4,14 @@ A public catalogue of Lua plugins Neovim users would like to see exist
 ## Contributing
 If you have an idea for a Lua plugin, or know of an existing plugin implementing one of the ideas listed here, please make a PR (adding to this README) or an issue!
 
+If you also want one of the plugins listed here to exist, please consider starting an implementation! You can add a link to your work-in-progress to the relevant idea's section.
+
+## Table of Contents
+1. [Ideas](#ideas)
+1.1 [Git library](#git-library)
+1.2 [Enhanced standard library](#enhanced-standard-library)
+2. [Granted Wishes](#granted-wishes)
+
 ## Ideas
 ### Git library
 **What?** 
@@ -18,7 +26,7 @@ Some rudimentary branch detection/change tracking functionality is implemented i
 **Potential pitfalls:**
 `fugitive` and the like are complex plugins to replicate.
 
-### A "standard library"
+### Enhanced standard library
 **What?**
 A Lua library collecting useful utilities and functions for writing Lua in/for Neovim.
 
@@ -30,3 +38,6 @@ https://github.com/nvim-lua/plenary.nvim is already working toward this!
 
 **Potential pitfalls:**
 What should be included/excluded to keep the library useful without bloat?
+
+## Granted Wishes
+Forthcoming!
