@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-**Summarize the plugin you'd like to exist**
-In a few sentences, what's your idea?
+**What?**
+Summarize the plugin you'd like to see exist. In a few sentences, what's your idea?
 
-**Give more details about what the plugin needs to do**
+**Why?**
 What should this plugin provide? What problems does it solve?
 
-**Potential candidates**
+**Potential existing implementations**
 Are there any existing plugins (Lua, Vimscript, or remote) that come close to your idea?
 
 **Potential pitfalls**
