@@ -1,5 +1,5 @@
 # wishlist
-A public catalogue of Lua plugins Neovim users would really like to see exist
+A public catalogue of Lua plugins Neovim users would like to see exist
 
 ## Contributing
 If you have an idea for a Lua plugin, or know of an existing plugin implementing one of the ideas listed here, please make a PR (adding to this README) or an issue!
