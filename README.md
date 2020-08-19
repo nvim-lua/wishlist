@@ -12,4 +12,5 @@ implementation! You can add a link to your work-in-progress to the relevant idea
 (which will also help track which plugins are being worked on on the projects page).
 
 # Granted Wishes
-Forthcoming!
+## Snippets
+[norcalli/snippets.nvim](https://github.com/norcalli/snippets.nvim) (grants [#2](https://github.com/nvim-lua/wishlist/issues/2)).
