@@ -17,3 +17,6 @@ idea. See below for a list of granted wishes!
 # Granted Wishes
 ## Snippets
 [norcalli/snippets.nvim](https://github.com/norcalli/snippets.nvim) (grants [#2](https://github.com/nvim-lua/wishlist/issues/2)).
+
+## LSP Actions Menu
+[RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) (grants [#8](https://github.com/nvim-lua/wishlist/issues/8)).
